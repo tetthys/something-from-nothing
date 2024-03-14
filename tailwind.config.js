@@ -4,6 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        // cosmic latte
         "cosmic-latte-50": "#FFFEFD",
         "cosmic-latte-100": "#FEFDF8",
         "cosmic-latte-200": "#FDFCF5",
@@ -14,6 +15,16 @@ export default {
         "cosmic-latte-700": "#B2B0A6",
         "cosmic-latte-800": "#8A8881",
         "cosmic-latte-900": "#696862",
+
+        // bootstrap colors
+        primary: "#3B71CA",
+        secondary: "#9FA6B2",
+        success: "#14A44D",
+        danger: "#DC4C64",
+        warning: "#E4A11B",
+        info: "#54B4D3",
+        light: "#FBFBFB",
+        dark: "#332D2D",
       },
       fontFamily: {
         sans: ["Shantell Sans", "sans-serif"],
